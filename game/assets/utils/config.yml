@@ -1,0 +1,12 @@
+graphics:
+  players-color: '#BF6068'
+  ball-color: '#F27166'
+  buttons-color:
+    normal: '#F27166'
+    hovering: '#BF6068'
+  title-color: '#F2F2F2'
+players-speed: 8
+ball-speed:
+  max: 6
+  min: 1
+ball-cooldown: 0.5
